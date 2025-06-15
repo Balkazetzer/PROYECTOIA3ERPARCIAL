@@ -1,0 +1,13 @@
+train: D:\Lizette\Uni\6to\VAR\yolov7-main\varyolov7.v1i.yolov7pytorch\images\train
+val: D:\Lizette\Uni\6to\VAR\yolov7-main\varyolov7.v1i.yolov7pytorch\images\val
+test: D:\Lizette\Uni\6to\VAR\yolov7-main\varyolov7.v1i.yolov7pytorch\images\test
+
+nc: 1
+names: ['Persona']
+
+roboflow:
+  workspace: baltazar-bqikx
+  project: varyolov7
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/baltazar-bqikx/varyolov7/dataset/1
